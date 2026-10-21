@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/ajifoster3/yolo-annotated-wind-turbines-586x371
+
+https://drive.google.com/drive/folders/12zPgn9EhGEW9EmUbVqNaAOpePBMj37Eb
