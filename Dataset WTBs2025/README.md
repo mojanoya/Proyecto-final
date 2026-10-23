@@ -22,11 +22,4 @@ dataset DTU de Kaggle. La guía completa está en `WTBs2025_2cls_guia.pdf`.
 
 ## Dónde está el dataset
 
-El ZIP (`WTBs2025_2cls.zip`) no va en el repositorio por su tamaño: <!-- completar con el link -->.
-
-Para regenerarlo desde el dataset original (doi:10.6084/m9.figshare.28876391):
-
-```
-python split_wtbs2025.py "<ruta>/DATASET" --out "<ruta>/WTBs2025_4x3"
-python make_2class.py "<ruta>/WTBs2025_4x3" --out "<ruta>/WTBs2025_2cls" --zip
-```
+El ZIP (`WTBs2025_2cls.zip`) no va en el repositorio por su tamaño: https://drive.google.com/drive/u/0/folders/12zPgn9EhGEW9EmUbVqNaAOpePBMj37Eb
